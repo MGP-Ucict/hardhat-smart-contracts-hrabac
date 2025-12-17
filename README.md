@@ -16,7 +16,9 @@ Solidity language implements blockchain with applied access control.
 
 Unit tests are written in `Hardhat` (`Ethers` and `Mocha`)
 
+```shell
 npm test
+```
 
 # Unit tests pass successfully.
 
